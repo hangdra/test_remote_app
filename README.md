@@ -1,5 +1,4 @@
-ok 
-<<<<<<< HEAD
+ok 123 local
 remote file
 
 add sth again
