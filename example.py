@@ -19,7 +19,7 @@ import asyncio
 
 # async def main():
 #     await asyncio.sleep(0.1)
-
+print("ok")
 async def main():
     await asyncio.create_task(asyncio.sleep(0.1))
 
